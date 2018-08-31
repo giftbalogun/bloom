@@ -1,4 +1,4 @@
-# bloom
+# Bloom
 # Bloom Pixel
 Bloom Pixel is a new generation camera application designed to put smile in the faces of people.
 
